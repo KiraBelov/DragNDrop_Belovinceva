@@ -10,3 +10,4 @@ Projekts "Drag N Drop", realizē automašīnu novietošanas spēli. Spēle pared
 - [x] Iespēja mainīt objekta izmēru pa x asi
 - [x] Iespēja mainīt objekta izmēru pa y asi
 - [x] Skaņas efekti
+# DragNDrop_Belovinceva
